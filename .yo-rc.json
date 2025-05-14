@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.8",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "software-catalog",
+    "libraryId": "c9b09c21-540a-4eb1-82f5-ef4d6f32e89a",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "SoftwareCatalog",
+    "solutionShortDescription": "SoftwareCatalog description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

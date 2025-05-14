@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "software-catalog-client-side-solution",
+    "id": "c9b09c21-540a-4eb1-82f5-ef4d6f32e89a",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "SoftwareCatalog description"
+      },
+      "longDescription": {
+        "default": "SoftwareCatalog description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "software-catalog Feature",
+        "description": "The feature that activates elements of the software-catalog solution.",
+        "id": "74c26b29-6bc6-4798-b854-231a5c3bbfc5",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/software-catalog.sppkg"
+  }
+}

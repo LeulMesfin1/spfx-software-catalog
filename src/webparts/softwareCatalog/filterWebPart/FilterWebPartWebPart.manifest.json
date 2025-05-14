@@ -1,0 +1,17 @@
+{
+    "$schema": "...",
+    "id": "your-new-guid-here",
+    "alias": "FilterWebPartWebPart",
+    "componentType": "WebPart",
+    "version": "*",
+    "manifestVersion": 2,
+    "requiresCustomScript": false,
+    "supportedHosts": ["SharePointWebPart"],
+    "supportsThemeVariants": true,
+    "preconfiguredEntries": [{
+      "title": { "default": "FilterWebPart" },
+      "description": { "default": "Dropdowns & Search Filter" },
+      ...
+    }]
+  }
+  

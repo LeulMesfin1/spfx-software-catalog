@@ -1,0 +1,12 @@
+"entries": [
+  {
+    "entry": "./lib/webparts/catalogDisplayWebPart/CatalogDisplayWebPartWebPart.js",
+    "manifest": "./src/webparts/catalogDisplayWebPart/CatalogDisplayWebPartWebPart.manifest.json",
+    "outputPath": "dist/catalogDisplayWebPart"
+  },
+  {
+    "entry": "./lib/webparts/filterWebPart/FilterWebPartWebPart.js",
+    "manifest": "./src/webparts/filterWebPart/FilterWebPartWebPart.manifest.json",
+    "outputPath": "dist/filterWebPart"
+  }
+]
