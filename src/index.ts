@@ -1,2 +1,2 @@
-export * from './catalogDisplayWebPart/CatalogDisplayWebPart';
-export * from './filterWebPart/FilterWebPartWebPart';
+export * from './webparts/softwareCatalog/SoftwareCatalogWebPart';
+export * from './webparts/softwareCatalog/filterWebPart/FilterWebPartWebPart';
